@@ -13,4 +13,4 @@ The goal was to create an intuitive and visually balanced sign-up interface, foc
 - Figma (for UI layout and prototyping)
 
 ## 🔗 Figma Design Link
-🔗https://www.figma.com/design/ymsRGjzUMZh8KAhtO0WqBY/codsoft?node-id=4-3&t=gtlj0ffK9MBULFMw-1
+🔗https://www.figma.com/proto/ymsRGjzUMZh8KAhtO0WqBY/codsoft?page-id=4%3A3&node-id=8-25&p=f&viewport=-426%2C239%2C0.68&t=5IYtlyM5mu1XSfMf-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=8%3A25
