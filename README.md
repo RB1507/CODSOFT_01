@@ -1,4 +1,4 @@
-#🔐 Sign-Up Page UI – CodSoft Internship
+# 🔐 Sign-Up Page UI – CodSoft Internship
 
 This is a **Sign-Up Page UI** design created during my **UI/UX Internship** at **CodSoft**, developed using **Figma**.
 
